@@ -1,0 +1,12 @@
+title: Steam Deck Newsletter
+description: >- 
+  Auto-generated Steam Deck Newsletter
+url: "https://steam-deck-newsletter.github.io"
+
+mermaid:
+  version: "9.1.3"
+
+theme: minima
+color_scheme: auto
+plugins:
+  - jekyll-feed
