@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "25.04.2025 Steam Deck Newsletter"
 date: 2025.04.25
 ---
