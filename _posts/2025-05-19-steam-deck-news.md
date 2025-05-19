@@ -6,6 +6,13 @@ date: 2025.05.19
 
 ## News
 
+* [Steam Deck / SteamOS hits 19,000 games rated Verified and Playable](https://www.gamingonlinux.com/2025/05/steam-deck-steamos-hits-19000-games-rated-verified-and-playable/)
+* [Steam Deck Beta Client Update Reduces Memory Usage and Fixes Verified Warnings](https://steamdeckhq.com/news/steam-deck-beta-client-update-reduces-memory-usage/)
+* [Microsoft finally solve the Linux dual-boot issue after 9 months](https://www.gamingonlinux.com/2025/05/microsoft-finally-solve-the-linux-dual-boot-issue-after-9-months/)
+* [Beyond All Reason, a free and open source RTS gets a big visual overhaul](https://www.gamingonlinux.com/2025/05/beyond-all-reason-a-free-and-open-source-rts-gets-a-big-visual-overhaul/)
+* [Sirocco Thugs is an upcoming first-person boomer beat 'em up with a demo out now](https://www.gamingonlinux.com/2025/05/sirocco-thugs-is-an-upcoming-first-person-boomer-beat-em-up-with-a-demo-out-now/)
+* [Mineshaft is a tough but unique Tetris-like with crafting and mining for gems](https://www.gamingonlinux.com/2025/05/mineshaft-is-a-tough-but-unique-tetris-like-with-crafting-and-mining-for-gems/)
+* [Chaotic spider-physics sandbox A Webbing Journey is out now in Early Access](https://www.gamingonlinux.com/2025/05/chaotic-spider-physics-sandbox-a-webbing-journey-is-out-now-in-early-access/)
 
 ## Free games on Epic
 
