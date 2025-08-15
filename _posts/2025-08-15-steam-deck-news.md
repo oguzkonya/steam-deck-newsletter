@@ -1,5 +1,7 @@
 ---
-layout: home
+layout: post
+title: "15.08.2025 Steam Deck News"
+date: 2025.08.15
 ---
 
 ## News
