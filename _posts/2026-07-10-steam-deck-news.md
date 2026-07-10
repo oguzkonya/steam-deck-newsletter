@@ -1,5 +1,7 @@
 ---
-layout: home
+layout: post
+title: "10.07.2026 Steam Deck News"
+date: 2026.07.10
 ---
 
 ## News
