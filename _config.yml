@@ -6,6 +6,10 @@ url: "https://oguzkonya.com/steam-deck-newsletter/"
 mermaid:
   version: "9.1.3"
 
+header_pages:
+  - index.md
+  - archive.md
+
 theme: minima
 color_scheme: auto
 plugins:
